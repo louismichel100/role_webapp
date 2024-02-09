@@ -1,3 +1,5 @@
+[![CI](https://github.com/louismichel100/role_webapp/actions/workflows/ci.yml/badge.svg)](https://github.com/louismichel100/role_webapp/actions/workflows/ci.yml)
+
 Role Name
 =========
 

@@ -21,7 +21,7 @@ jobs:
           git add .
           git config --global user.email "sangalamballamichel@gmail.com"
           git config --global user.name "louismichel100"
-          git commit -m "update role nginx commit ${{ github.sha }}"
+          git commit -m "update role webapp commit ${{ github.sha }}"
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
